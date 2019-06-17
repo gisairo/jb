@@ -2,7 +2,7 @@ baseurl = "https://james-brian.netlify.com/"
 title = "JB SLOW LEARNING BLOG"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "James Briaan"
+copyright = "James Brian"
 disqusShortname = "notavailable"
 googleAnalytics = "XXX"
 
@@ -52,10 +52,6 @@ googleAnalytics = "XXX"
     url = "/"
     weight = 1
 
-[[menu.main]]
-    name = "Projects"
-    url = "/project/"
-    weight = 2
 
 [[menu.main]]
     name = "Contact"
