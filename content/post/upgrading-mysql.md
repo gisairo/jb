@@ -1,7 +1,7 @@
 +++
 title = "Upgrading mysql"
 description = "I recently had to update mysql5.6 to 5.7 ."
-date = 2017-06-17T03:13:50Z
+date = 2017-06-19T03:13:50Z
 author = "James Brian"
 +++
 
