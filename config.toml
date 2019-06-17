@@ -1,4 +1,4 @@
 baseURL = "https://james-brian.netlify.com/"
 languageCode = "en-us"
 title = "JB slow learning"
-theme = "hugo-paper"
+theme = "docter"
