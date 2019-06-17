@@ -1,3 +1,3 @@
-##This is my blog
+# This is my blog
 
-I use hugo, cool and netlify. 
+- I use hugo, cool and netlify. 
