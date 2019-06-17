@@ -1,7 +1,7 @@
 # Upgrading Mysql 5.6 to Mysql 5.7 in Oracle Linux 7 - Fancy name for Centos
 
 
-'''
+	hr
 
 	service mysql stop
 
@@ -16,7 +16,7 @@
 	yum update mysql
 
 
-'''
+
 
 Do yourself a fover and run the final command 
 
