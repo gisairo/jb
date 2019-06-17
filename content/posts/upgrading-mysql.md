@@ -1,5 +1,6 @@
 # Upgrading Mysql 5.6 to Mysql 5.7 in Oracle Linux 7 - Fancy name for Centos
 
+
 '''
 
 	service mysql stop
