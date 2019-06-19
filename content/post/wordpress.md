@@ -5,7 +5,7 @@ date = 2019-06-20T00:45:50Z
 author = "James Brian"
 +++
 
-# Changin your wordpress user password via database
+# Changing your wordpress user password via database
 
 + Create your local datbase
 
