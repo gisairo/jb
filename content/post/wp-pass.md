@@ -1,7 +1,7 @@
 +++
 title = "Changing wordpress user password via database"
 description = "How to change your wordpress password if you have access to the database"
-date = 2019-06-20T00:45:50Z
+date = 2019-06-20T12:55:50Z
 author = "James Brian"
 +++
 
