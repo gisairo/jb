@@ -1,5 +1,5 @@
 +++
-title = "Brag documnets"
+title = "Brag document"
 description = "I write my accomplishments here"
 date = 2019-09-01T12:55:50Z
 author = "James Brian"
