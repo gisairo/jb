@@ -14,9 +14,14 @@ author = "James Brian"
 + Start/Restart apache2 and mysql services after
 + Check that ssh2 extension is enabled via phpinfo 
     * You can also run the following command 
-        - "php -i | grep ssh" in your favourite terminal emulation program that has access to the laragon php version you installed. 
+        - 
+
+                php -i | grep ssh
+
+             in your favourite terminal emulation program that has access to the laragon php version you installed. 
         - It should return 
-                *     "
+                *   
+
                         Registered PHP Streams => php, file, glob, data, http, ftp, zip, compress.zlib, https, ftps, ssh2.shell, ssh2.exec, ssh2.tunnel, ssh2.scp, ssh2.sftp, phar
                         libSSH Version => libssh2/1.8.0
                         ssh2
@@ -27,4 +32,4 @@ author = "James Brian"
                         $_SERVER['PLINK_PROTOCOL'] => ssh
                         $_SERVER['SVN_SSH'] => C:\\Program Files\\Git\\bin\\ssh.exe
             
-                "
+                
