@@ -7,7 +7,7 @@ author = "James Brian"
 
 ## How to install and enable php ssh2 into laragon on windows 10 64 bit
 
-+ Download php-ssh2 dll here (phpssh2)['https://pecl.php.net/package/ssh2/1.1.2/windows'] choosing the 64 bit thread safe binary zip file 
++ Download php-ssh2 dll here [phpssh2](https://pecl.php.net/package/ssh2/1.1.2/windows) choosing the 64 bit thread safe binary zip file 
 + Unzip php_ssh2-1.1.2-7.2-ts-vc15-x64.zip and move the files php_ssh2.dll and php_ssh2.pdb into the dll files folder that laragon uses e.g 'C:\laragon\bin\php\php-7.2.11-Win32-VC15-x64\ext' 
 + Stop laragon services
 + Enable the php ssh2 extension on largaon by right clicking on laragon then going to php-> Extensions -> ssh2 
